@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Tasnim Rahman Tanim  
 ### **Solutions Architect | Cybersecurity • Cloud • Networking**
 
-Cybersecurity and IT Solutions Architect with experience designing, deploying, and securing enterprise infrastructures across Microsoft 365, Azure, Kaspersky EDR/XDR, Fortinet, Sophos, cPanel/WHM, and cloud-native environments. I build resilient systems, automate operations, optimize performance, and deliver business-aligned solutions.
+Cybersecurity and IT Solutions Architect with experience designing, deploying, and securing enterprise infrastructures across Microsoft 365, Azure, Kaspersky EDR/XDR, Fortinet, Sophos, cPanel/WHM, and cloud-native environments. I build resilient systems, automate operations, optimize performance, and deliver secure and scalable solutions.
 
 ---
 
 # 🔐 What I Do
-- Architect **cybersecurity solutions** using Kaspersky, Sophos, Fortinet & Wazuh SIEM  
-- Manage **Azure & Microsoft 365** (Exchange, Intune, Defender, SharePoint, Sentinel)  
+- Architect **enterprise cybersecurity solutions** (Kaspersky, Sophos, Fortinet, Wazuh SIEM)  
+- Manage **Azure & Microsoft 365** (Exchange, Intune, SharePoint, Defender, Sentinel)  
 - Deploy & maintain **cPanel/WHM**, DNS/mail servers, ERP systems & Docker apps  
-- Conduct **VAPT**, threat hunting, risk assessments & ISO/NIST-aligned compliance  
-- Lead **infrastructure projects** — routing, switching, VPN, AD, UTM, network hardening  
+- Perform **VAPT**, threat hunting, incident response & security assessments  
+- Lead **infrastructure projects** — routing, switching, VPN, AD DS, UTM, network hardening  
 - Deliver **cybersecurity & networking training** for enterprise & academic programs  
 
 ---
@@ -19,46 +19,52 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 
 <table>
 <tr>
-<td>
+
+<td valign="top" width="20%">
 
 ### 🔐 Cybersecurity
 - Kaspersky EDR/XDR  
-- Wazuh SIEM  
-- Sophos Firewall  
 - Fortinet Firewall  
-- Incident Response  
+- Sophos Firewall  
+- Wazuh SIEM  
 - Threat Hunting  
-- VAPT & Malware Analysis  
-- IAM & DLP  
-- Network Hardening  
-- Security Automation  
-
-### 🖥️ Infrastructure & Server Ops
-- Windows Server  
-- AD DS & GPO  
-- cPanel / WHM  
-- DNS & Mail Servers  
-- ERP Hosting  
-- VPN · VLAN  
-- Routing · Switching  
-- UTM & Monitoring  
+- Malware Analysis  
+- VAPT  
+- Incident Response  
 
 </td>
-<td>
 
-### ☁️ Cloud & Modern Workplace
+<td valign="top" width="20%">
+
+### ☁️ Cloud 
 - Azure  
 - Azure AD  
 - Microsoft 365  
-- Exchange  
+- Exchange Online  
+- SharePoint Online  
 - Intune  
-- SharePoint  
 - Defender  
 - Sentinel  
-- Cloud Security Architecture  
-- System Integration  
 
-### 🧰 Automation & Tools
+</td>
+
+<td valign="top" width="20%">
+
+### 🖥️ Infrastructure
+- Windows Server  
+- AD DS & GPO  
+- Routing & Switching  
+- VPN · VLAN  
+- ERP Hosting  
+- Network Monitoring  
+- DNS & Mail Servers  
+- cPanel / WHM  
+
+</td>
+
+<td valign="top" width="20%">
+
+### 🧰 Automation Tools
 - PowerShell  
 - Bash  
 - Python  
@@ -66,51 +72,73 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 - Git & GitHub  
 - VMware  
 - VirtualBox  
-
-### 📘 Frameworks & Compliance
-- ISO 27001  
-- NIST  
-- SOC 2  
-- GDPR  
-- Risk Assessment  
-- BCP/DR  
+- System Integration  
 
 </td>
+
+<td valign="top" width="20%">
+
+### ⚙️ Additional Competencies
+- Zero Trust Concepts  
+- Cloud Security Architecture  
+- Identity & Access Management  
+- Email Security  
+- Endpoint Protection  
+- Backup & Recovery  
+- Playbooks  
+
+</td>
+
 </tr>
 </table>
 
----
 
-# 🧾 Certifications
+# 🧾 Certifications  
 
 <table>
 <tr>
-<td>
+
+<td valign="top" width="33%">
 
 ### 🔐 Cybersecurity
 - Google Cybersecurity Professional  
-- Kaspersky KATA Expert (S25.7)  
-- Kaspersky EDR / Next EDR Admin  
-- Kaspersky Mail Security  
+- ICT Cybersecurity Specialist  
 - OPSWAT Cybersecurity Associate  
-- Google IT Security  
+- Password Hacking & Malware Security  
+- OWASP CIIP  
+- Google IT Security (Dark Arts)  
+- Play it safe – Manage Security Risks  
 
 </td>
-<td>
 
-### ☁️ Cloud & Infrastructure
+<td valign="top" width="33%">
+
+### 🔰 Kaspersky Certifications
+- KATA & EDR Expert  
+- Next EDR Optimum  
+- EDR / Next EDR Admin  
+- MDR (Managed Detection & Response)  
+- Security for Mail Server  
+- Safe Web  
+- SD-WAN  
+- KUMA Sales & Presales  
+
+</td>
+
+<td valign="top" width="33%">
+
+### ☁️ Cloud, IT & Development
 - Microsoft 365 Administration  
 - Azure Administration  
 - Network & Server Administration  
-
-### 💻 IT & Development
-- Google IT Support  
-- Google Python  
-- Google OS & Systems  
+- Google Technical Support Specialist  
 - Google Networking  
-- Meta MySQL Database Structures  
+- Google OS & Systems Fundamentals   
+- Meta MySQL  
+- 21st Century Employability (ICT Division)  
 
 </td>
+
 </tr>
 </table>
 
@@ -119,13 +147,24 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 # 🎓 Experience Snapshot
 
 ### 🏢 Solutions Architect — Goinnovior Limited  
-Designed and deployed enterprise cybersecurity & cloud architectures; implemented Azure workloads, Microsoft 365, EDR/XDR, ERP hosting, and network infrastructures.
+Designed and deployed enterprise cybersecurity & cloud solutions (Azure, M365, EDR/XDR, ERP systems, firewalls, hosting infrastructures).
 
 ### 🧑‍🏫 Cybersecurity & Networking Trainer — Skill Jobs  
-Delivered hands-on cybersecurity & networking training under government-backed programs.
+Delivered government-backed training programs with strong employment outcomes.
 
 ### 🛡️ Cybersecurity Architect Intern — Skylark Soft  
-Implemented security frameworks, incident response workflows, and compliance policies.
+Implemented security frameworks, incident response processes, and compliance standards.
+
+# 📄 My Resume
+
+You can view or download my full professional resume using the links below:
+
+### 🔗 **View Resume Online**
+**https://tasnimrahmantanim.vercel.app/resume**
+
+### 📥 **Download Resume (PDF)**
+[Click here to download](./Tasnim_Rahman_Tanim_Resume.pdf)
+
 
 ---
 
