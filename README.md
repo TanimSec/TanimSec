@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" alt="Tasnim Rahman Tanim GitHub Banner"/>
+  <img src="linkedin banner.png" width="100%" alt="Tasnim Rahman Tanim GitHub Banner"/>
 </p>
 
 # 👋 Hi, I'm Tasnim Rahman Tanim  
