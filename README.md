@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-banner.png" width="100%" alt="Tasnim Rahman Tanim GitHub Banner"/>
+</p>
+
 # 👋 Hi, I'm Tasnim Rahman Tanim  
 ### **Solutions Architect | Cybersecurity • Cloud • Networking**
 
@@ -54,7 +58,6 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 - Windows Server  
 - AD DS & GPO  
 - Routing & Switching  
-- VPN · VLAN  
 - ERP Hosting  
 - Network Monitoring  
 - DNS & Mail Servers  
