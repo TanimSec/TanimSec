@@ -163,7 +163,10 @@ You can view or download my full professional resume using the links below:
 **https://tasnimrahmantanim.vercel.app/resume**
 
 ### 📥 **Download Resume (PDF)**
-[Click here to download](./Tasnim_Rahman_Tanim_Resume.pdf)
+<a href="./Tasnim_Rahman_Tanim_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge">
+</a>
+
 
 
 ---
