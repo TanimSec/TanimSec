@@ -33,3 +33,4 @@ jobs:
           git add dist/snake.svg
           git commit -m "Generate snake animation" || echo "No changes"
           git push
+
