@@ -183,3 +183,8 @@ You can view or download my full professional resume using the links below:
 ---
 
 ### ✨ *Always learning. Always building. Always securing.*
+
+<p align="center">
+  <img src="dist/snake.svg" alt="Contribution Snake"/>
+</p>
+
