@@ -146,6 +146,47 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 </table>
 
 ---
+# 🏅 Skills Badges
+
+### Cybersecurity
+![Kaspersky](https://img.shields.io/badge/Kaspersky-EDR%2FXDR-green?style=for-the-badge&logo=kaspersky)
+![Fortinet](https://img.shields.io/badge/Fortinet-Firewall-red?style=for-the-badge&logo=fortinet)
+![Sophos](https://img.shields.io/badge/Sophos-Firewall-blue?style=for-the-badge&logo=sophos)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-purple?style=for-the-badge&logo=wazuh)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Expert-orange?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-Pro-lightgrey?style=for-the-badge)
+
+### Cloud & Modern Workplace
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Admin-red?style=for-the-badge&logo=microsoft)
+![Exchange](https://img.shields.io/badge/Exchange-Online-blue?style=for-the-badge)
+![Intune](https://img.shields.io/badge/Intune-Device_Management-brightgreen?style=for-the-badge)
+![Sentinel](https://img.shields.io/badge/Sentinel-SIEM-purple?style=for-the-badge)
+
+### Networking & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-Admin-blue?style=for-the-badge&logo=windows)
+![Active Directory](https://img.shields.io/badge/Active_Directory-GPO-yellow?style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-Hosting-orange?style=for-the-badge&logo=cpanel)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
+# 🛠️ Tools
+
+![PowerShell](https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=powershell)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-DevOps-black?style=for-the-badge&logo=github)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-blue?style=for-the-badge&logo=vmware)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Hypervisor-lightblue?style=for-the-badge&logo=virtualbox)
+
+# 🔐 Cybersecurity Tools
+
+![KATA](https://img.shields.io/badge/Kaspersky-KATA-green?style=for-the-badge)
+![EDR](https://img.shields.io/badge/Kaspersky-EDR_Expert-blue?style=for-the-badge)
+![MDR](https://img.shields.io/badge/Kaspersky-MDR-red?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-grey?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-Framework-purple?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC_2-Compliance-lightgrey?style=for-the-badge)
 
 # 🎓 Experience Snapshot
 
