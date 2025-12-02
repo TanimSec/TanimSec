@@ -86,7 +86,7 @@ Cybersecurity and IT Solutions Architect with experience designing, deploying, a
 - Cloud Security Architecture  
 - IAM 
 - Email Security  
-- Endpoint Protection  
+- EDR 
 - Backup & Recovery  
 - Playbooks  
 
