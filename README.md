@@ -191,9 +191,9 @@ You can view or download my full professional resume using the links below:
 ---
 
 # 🌐 Connect With Me
-- **Portfolio:** https://tasnimrahmantanim.vercel.app  
+- **Portfolio:** https://tanim.my.id
 - **LinkedIn:** https://linkedin.com/in/contacttasnimrahmantanim  
-- **GitHub:** https://github.com/TASNIMR7  
+- **GitHub:** https://github.com/TanimSec
 - **Email:** tasnimrahman48@gmail.com  
 
 ---
