@@ -3,33 +3,39 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
+    paths:
+      - ".github/workflows/main.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Generate snake SVGs (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: TanimSec
-          outputs: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#F65802&color_dots=#ebedf0,#ffd9c2,#ffab7a,#F65802,#a83822
+            dist/snake-dark.svg?color_snake=#F65802&color_dots=#161b22,#3a1606,#7a2e08,#c84a06,#F65802&color_dot_border=#0c0d0e
 
-      - name: Push snake file
+      - name: Commit snake files
         run: |
-          mkdir -p dist
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add dist/snake.svg
-          git commit -m "Generate snake animation" || echo "No changes"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/snake.svg dist/snake-dark.svg
+          git commit -m "chore: regenerate contribution snake" || echo "No changes"
           git push

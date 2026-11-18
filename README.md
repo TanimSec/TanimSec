@@ -1,203 +1,232 @@
-<p align="center">
-  <img src="https://github.com/TanimSec/TanimSec/blob/main/linkedin%20banner.jpg" width="100%" alt="Tasnim Rahman Tanim GitHub Banner"/>
+<a href="https://tanim.my.id"><img src="./assets/hero.svg" width="100%" alt="Tasnim Rahman Tanim — Lead Solutions Architect and ISO/IEC 27001 Lead Auditor, designing and securing multi-cloud platforms on OCI, AWS and Azure."></a>
+
+<p>
+  <a href="mailto:mail.tasnimrahman@gmail.com"><img src="./assets/btn-talk.svg" height="44" alt="Let's talk"></a>&nbsp;
+  <a href="./Tasnim_Rahman_Tanim_Resume.pdf"><img src="./assets/btn-cv.svg" height="44" alt="Download CV"></a>&nbsp;
+  <a href="https://tanim.my.id"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://linkedin.com/in/contacttasnimrahmantanim"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
 </p>
 
-# 👋 Hi, I'm Tasnim Rahman Tanim  
-### **Solutions Architect | Cybersecurity • Cloud • Networking**
+<img src="./assets/stats.svg" width="100%" alt="99.9% uptime across client clouds · 15% higher presales win rate · 220+ engineers trained · 10+ ERP modules shipped">
 
-Cybersecurity and IT Solutions Architect with experience designing, deploying, and securing enterprise infrastructures across Microsoft 365, Azure, Kaspersky EDR/XDR, Fortinet, Sophos, cPanel/WHM, and cloud-native environments. I build resilient systems, automate operations, optimize performance, and deliver secure and scalable solutions.
+<br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-about-dark.svg">
+  <img src="./assets/h-about-light.svg" width="100%" alt="About — Cloud platforms built to pass the audit.">
+</picture>
 
-# 🔐 What I Do
-- Architect **enterprise cybersecurity solutions** (Kaspersky, Sophos, Fortinet, Wazuh SIEM)  
-- Manage **Azure & Microsoft 365** (Exchange, Intune, SharePoint, Defender, Sentinel)  
-- Deploy & maintain **cPanel/WHM**, DNS/mail servers, ERP systems & Docker apps  
-- Perform **VAPT**, threat hunting, incident response & security assessments  
-- Lead **infrastructure projects** — routing, switching, VPN, AD DS, UTM, network hardening  
-- Deliver **cybersecurity & networking training** for enterprise & academic programs  
+Multi-cloud platforms on **OCI, AWS and Azure**, secured with **EDR and SIEM** and audited against **ISO 27001 and NIST**. Lead Solutions Architect at Goinnovior; cybersecurity and networking trainer at Skill Jobs.
 
----
+<br>
 
-# 🛠️ Technologies & Skills
-
-<table>
-<tr>
-
-<td valign="top" width="20%">
-
-### 🔐 Cybersecurity
-- Kaspersky EDR/XDR  
-- Fortinet Firewall  
-- Sophos Firewall  
-- Wazuh SIEM  
-- Threat Hunting  
-- Malware Analysis  
-- VAPT  
-- Incident Response  
-
-</td>
-
-<td valign="top" width="20%">
-
-### ☁️ Cloud 
-- Azure  
-- Azure AD  
-- Microsoft 365  
-- Exchange Online  
-- SharePoint Online  
-- Intune  
-- Defender  
-- Sentinel  
-
-</td>
-
-<td valign="top" width="20%">
-
-### 🖥️ Infrastructure
-- Windows Server  
-- AD DS & GPO  
-- Routing & Switching  
-- ERP Hosting  
-- Network Monitoring  
-- DNS & Mail Servers  
-- cPanel / WHM  
-
-</td>
-
-<td valign="top" width="20%">
-
-### 🧰 Automation Tools
-- PowerShell  
-- Bash  
-- Python  
-- Docker  
-- Git & GitHub  
-- VMware  
-- VirtualBox  
-- System Integration  
-
-</td>
-
-<td valign="top" width="20%">
-
-### ⚙️ Additional Competencies
-- Zero Trust Concepts  
-- Cloud Security Architecture  
-- IAM 
-- Email Security  
-- EDR 
-- Backup & Recovery  
-- Playbooks  
-
-</td>
-
-</tr>
-</table>
-
-
-# 🧾 Certifications  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-expertise-dark.svg">
+  <img src="./assets/h-expertise-light.svg" width="100%" alt="Expertise — What the work covers">
+</picture>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top" width="33%">
+**01 — Cybersecurity & GRC**
 
-### 🔐 Cybersecurity
-- Google Cybersecurity Professional  
-- ICT Cybersecurity Specialist  
-- OPSWAT Cybersecurity Associate  
-- Password Hacking & Malware Security  
-- OWASP CIIP  
-- Google IT Security (Dark Arts)  
-- Play it safe – Manage Security Risks  
+Detection engineering, EDR/XDR rollouts, perimeter defense and audit-ready compliance.
+
+<sub>WAZUH · SURICATA · SYSMON · KASPERSKY EDR · FORTINET · SOPHOS · ISO 27001 · NIST CSF · SOC 2</sub>
 
 </td>
+<td width="50%" valign="top">
 
-<td valign="top" width="33%">
+**02 — Cloud & Infrastructure**
 
-### 🔰 Kaspersky Certifications
-- KATA & EDR Expert  
-- Next EDR Optimum  
-- EDR / Next EDR Admin  
-- MDR (Managed Detection & Response)  
-- Security for Mail Server  
-- Safe Web  
-- SD-WAN  
-- KUMA Sales & Presales  
+Highly available multi-cloud architecture with identity and access at the core.
+
+<sub>OCI · AWS · AZURE · ENTRA ID · INTUNE · M365 · LINUX · MIKROTIK · WIREGUARD · IPSEC</sub>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td valign="top" width="33%">
+**03 — DevOps & Observability**
 
-### ☁️ Cloud, IT & Development
-- Microsoft 365 Administration  
-- Azure Administration  
-- Network & Server Administration  
-- Google Technical Support Specialist  
-- Google Networking  
-- Google OS & Systems Fundamentals   
-- Meta MySQL  
-- 21st Century Employability (ICT Division)  
+Infrastructure as code, containerized delivery and monitoring measured against SLOs.
+
+<sub>TERRAFORM · DOCKER · GITHUB ACTIONS · PROMETHEUS · GRAFANA · LOKI · K6 · LOCUST</sub>
 
 </td>
+<td width="50%" valign="top">
 
+**04 — Software Development**
+
+Business systems and web apps that ship to production.
+
+<sub>PYTHON · POSTGRESQL · ODOO 19 · NEXT.JS · REACT · TYPESCRIPT · REST APIS</sub>
+
+</td>
 </tr>
 </table>
 
----
-# 🏅 Skills Badges
+<br>
 
-### Cybersecurity
-![Kaspersky](https://img.shields.io/badge/Kaspersky-EDR%2FXDR-green?style=for-the-badge&logo=kaspersky)
-![Fortinet](https://img.shields.io/badge/Fortinet-Firewall-red?style=for-the-badge&logo=fortinet)
-![Sophos](https://img.shields.io/badge/Sophos-Firewall-blue?style=for-the-badge&logo=sophos)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-purple?style=for-the-badge&logo=wazuh)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-Expert-orange?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-Pro-lightgrey?style=for-the-badge)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
+  <img src="./assets/h-work-light.svg" width="100%" alt="Work — Selected projects">
+</picture>
 
-### Cloud & Modern Workplace
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Admin-red?style=for-the-badge&logo=microsoft)
-![Exchange](https://img.shields.io/badge/Exchange-Online-blue?style=for-the-badge)
-![Intune](https://img.shields.io/badge/Intune-Device_Management-brightgreen?style=for-the-badge)
-![Sentinel](https://img.shields.io/badge/Sentinel-SIEM-purple?style=for-the-badge)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🎓 Experience Snapshot
+**Enterprise SIEM & SOC Telemetry**
 
-### 🏢 Solutions Architect — Goinnovior Limited  
-Designed and deployed enterprise cybersecurity & cloud solutions (Azure, M365, EDR/XDR, ERP systems, firewalls, hosting infrastructures).
+Production Wazuh SIEM/XDR cluster with Sysmon endpoint auditing, Suricata network detection and VirusTotal enrichment. Automated triage for privilege escalation, lateral movement and suspicious egress.
 
-### 🧑‍🏫 Cybersecurity & Networking Trainer — Skill Jobs  
-Delivered government-backed training programs with strong employment outcomes.
+<sub>WAZUH · SYSMON · SURICATA · VIRUSTOTAL API</sub>
 
-### 🛡️ Cybersecurity Architect Intern — Skylark Soft  
-Implemented security frameworks, incident response processes, and compliance standards.
+</td>
+<td width="50%" valign="top">
 
-# 📄 My Resume
+**AI-Driven Vulnerability Management**
 
-You can view or download my full professional resume using the links below:
+One DevSecOps pipeline: Strix AI finds issues, DefectDojo centralizes them and LLM triage removes false positives, cutting time to remediation.
 
-### 🔗 **View Resume Online**
-**https://tasnimrahmantanim.vercel.app/resume**
+<sub>STRIX AI · DEFECTDOJO · AISOC</sub> &nbsp;·&nbsp; [View repo ↗](https://github.com/TanimSec/AI-Driven-Vulnerability-Assessment-Management)
 
-### 📥 **Download Resume (PDF)**
-<a href="./Tasnim_Rahman_Tanim_Resume.pdf" download>
-  <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge">
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+**Multi-Cloud Observability Stack**
 
+Oracle Cloud instances provisioned with Terraform, wired into metrics, logs and alerting, then load-tested with k6 and Locust to tune kernel and resource limits.
 
----
+<sub>TERRAFORM · OCI · PROMETHEUS · GRAFANA · LOKI · ALERTMANAGER</sub>
 
-# 🌐 Connect With Me
-- **Portfolio:** https://tanim.my.id
-- **LinkedIn:** https://linkedin.com/in/contacttasnimrahmantanim  
-- **GitHub:** https://github.com/TanimSec
-- **Email:** tasnimrahman48@gmail.com  
+</td>
+<td width="50%" valign="top">
 
----
+**Custom Enterprise ERP on Odoo 19**
 
-### ✨ *Always learning. Always building. Always securing.*
+10+ custom modules (Payroll, Attendance, Time-off, Document Management) and a browser-native office suite, with strict RBAC and automated off-site backups.
 
+<sub>PYTHON · POSTGRESQL · ODOO 19</sub> &nbsp;·&nbsp; [Visit ↗](https://odoo.goinnovior.com)
 
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Architecture diagrams</b></summary>
+<br>
+
+**SIEM & detection pipeline**
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','clusterBkg':'#0c0d0e','clusterBorder':'#3f3f46','titleColor':'#fafafa','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
+flowchart LR
+    subgraph Sources
+        W["Windows + Sysmon"]
+        L["Linux servers"]
+        S["Suricata NIDS"]
+    end
+    W & L -->|agent| M["Wazuh Manager"]
+    S -->|IDS alerts| M
+    M <-->|hash / IP lookups| VT["VirusTotal API"]
+    M --> I[("Indexer")] --> D["Hunting dashboards"]
+    M --> A["Automated triage & alerts"]
+```
+
+**Observability on OCI**
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
+flowchart LR
+    TF["Terraform"] --> VM["OCI instances"]
+    VM -->|metrics| P["Prometheus"] --> G["Grafana"]
+    VM -->|logs| LK["Loki"] --> G
+    P --> AM["Alertmanager"]
+    K["k6 / Locust"] -->|load tests| VM
+```
+
+**AI vulnerability pipeline**
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
+flowchart LR
+    CA["Cloud assets"] --> ST["Strix AI"] --> DD["DefectDojo"]
+    CR["Code scan results"] --> DD
+    DD --> AI["AiSOC triage"] --> F["Validated findings"]
+```
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-career-dark.svg">
+  <img src="./assets/h-career-light.svg" width="100%" alt="Career — Where it happened">
+</picture>
+
+**Lead Solutions Architect & Security Auditor** — Goinnovior Limited<br>
+<sub>JUL 2024 — PRESENT</sub><br>
+Multi-cloud and security architecture on OCI, AWS and Azure at 99.9% uptime. Lead ISO 27001 / NIST auditor. EDR/XDR, NGFW and Odoo 19 ERP delivery, Docker + GitHub Actions CI/CD, and executive presales that lifted win rate by 15%.
+
+**Cybersecurity & Networking Trainer** — Skill Jobs<br>
+<sub>NOV 2024 — PRESENT</sub><br>
+15+ four-month cohorts and 220+ professionals trained, with 95% completion and 60% job placement into SOC, IT and network roles.
+
+**Cybersecurity Engineering Intern** — Skylark Soft Limited<br>
+<sub>JAN 2023 — MAY 2023</sub><br>
+Security policy and compliance controls. Selected for the government-sponsored Cybersecurity Advancement Program (IIT & EDGE).
+
+<sub>EDUCATION — B.Sc. Information & Communication Engineering, Daffodil International University (2023)</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-credentials-dark.svg">
+  <img src="./assets/h-credentials-light.svg" width="100%" alt="Credentials — Certified to audit">
+</picture>
+
+**ISO/IEC 27001:2022 Lead Auditor** — MasterMind, 2026
+
+- KATA & EDR Expert · Next EDR Administration — Kaspersky, 2025
+- Google Cybersecurity Professional Certificate — Google, 2023
+- Cybersecurity Specialization — ICT Division & IIT, University of Dhaka, 2023
+- Full Stack Web Engineering — Programming Hero, 2026
+
+<details>
+<summary>All certifications</summary>
+<br>
+
+- Google IT Support Professional Certificate — Google, 2023–24
+- Connect and Protect: Networks and Network Security — Google, 2025
+- IT Security: Defense Against the Digital Dark Arts — Google, 2025
+- Network & Server Administration — Skill Jobs, 2023
+- Kaspersky: Next EDR Optimum · MDR · Security for Mail Server · Safe Web · SD-WAN · KUMA Sales & Presales
+- OPSWAT Cybersecurity Associate · OWASP CIIP · Password Hacking & Malware Security · Play It Safe: Manage Security Risks
+- Microsoft 365 Administration · Azure Administration · Google Networking · Google OS & Systems Fundamentals · Meta MySQL
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
+  <img src="./dist/snake.svg" width="100%" alt="Contribution graph">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact-dark.svg">
+  <img src="./assets/h-contact-light.svg" width="100%" alt="Contact — Let's build something secure.">
+</picture>
+
+<p>
+  <a href="mailto:mail.tasnimrahman@gmail.com"><img src="./assets/btn-talk.svg" height="44" alt="Let's talk"></a>&nbsp;
+  <a href="./Tasnim_Rahman_Tanim_Resume.pdf"><img src="./assets/btn-cv.svg" height="44" alt="Download CV"></a>
+</p>
