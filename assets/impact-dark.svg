@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="t">
+  <title id="t">Impact: 99.9% uptime, 10+ ERP modules, 220+ trained, 60% placement, +15% win rate, 3 clouds</title>
+  <defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient></defs>
+  <clipPath id="c"><rect x="1" y="1" width="1198" height="148" rx="14"/></clipPath>
+  <rect x="1" y="1" width="1198" height="148" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="4" fill="url(#bar)" clip-path="url(#c)"/>
+  
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.6s" fill="freeze"/>
+      <text x="100.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">99.9%</text>
+      <text x="100.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">uptime on multi-cloud</text>
+      <text x="100.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">architectures delivered</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
+      <text x="300.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">10+</text>
+      <text x="300.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">custom Odoo 19</text>
+      <text x="300.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">ERP modules shipped</text>
+    </g><line x1="200.0" y1="34" x2="200.0" y2="120" stroke="#30363d"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.6s" fill="freeze"/>
+      <text x="500.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">220+</text>
+      <text x="500.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">professionals &amp; students</text>
+      <text x="500.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">trained in SecOps</text>
+    </g><line x1="400.0" y1="34" x2="400.0" y2="120" stroke="#30363d"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
+      <text x="700.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">60%</text>
+      <text x="700.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">graduate job</text>
+      <text x="700.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">placement rate</text>
+    </g><line x1="600.0" y1="34" x2="600.0" y2="120" stroke="#30363d"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.6s" fill="freeze"/>
+      <text x="900.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">+15%</text>
+      <text x="900.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">solution win rate</text>
+      <text x="900.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">from presales demos</text>
+    </g><line x1="800.0" y1="34" x2="800.0" y2="120" stroke="#30363d"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/>
+      <text x="1100.0" y="66" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#22d3ee">3</text>
+      <text x="1100.0" y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#e6edf3">clouds in production</text>
+      <text x="1100.0" y="118" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">OCI · AWS · Azure</text>
+    </g><line x1="1000.0" y1="34" x2="1000.0" y2="120" stroke="#30363d"/>
+</svg>
