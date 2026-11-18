@@ -1,270 +1,232 @@
-<!-- ───────────────────────────── HERO ───────────────────────────── -->
-<a href="https://tanim.my.id">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <img src="./assets/hero-light.svg" width="100%" alt="Tasnim Rahman Tanim — Lead Solutions Architect, Cloud Infrastructure & Cybersecurity">
-  </picture>
-</a>
+<a href="https://tanim.my.id"><img src="./assets/hero.svg" width="100%" alt="Tasnim Rahman Tanim — Lead Solutions Architect and ISO/IEC 27001 Lead Auditor, designing and securing multi-cloud platforms on OCI, AWS and Azure."></a>
 
-<p align="center">
-  <a href="https://tanim.my.id"><img src="https://img.shields.io/badge/Portfolio-tanim.my.id-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/contacttasnimrahmantanim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117" alt="LinkedIn"></a>
-  <a href="mailto:mail.tasnimrahman@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Email"></a>
-  <a href="./Tasnim_Rahman_Tanim_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-3b82f6?style=for-the-badge&labelColor=0d1117" alt="Resume PDF"></a>
+<p>
+  <a href="mailto:mail.tasnimrahman@gmail.com"><img src="./assets/btn-talk.svg" height="44" alt="Let's talk"></a>&nbsp;
+  <a href="./Tasnim_Rahman_Tanim_Resume.pdf"><img src="./assets/btn-cv.svg" height="44" alt="Download CV"></a>&nbsp;
+  <a href="https://tanim.my.id"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio"></a>&nbsp;
+  <a href="https://linkedin.com/in/contacttasnimrahmantanim"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
 </p>
 
-```yaml
-# ~/.profile
-name:        Tasnim Rahman Tanim
-role:        Lead Solutions Architect & Security Auditor @ Goinnovior Limited
-also:        Cybersecurity & Networking Trainer @ Skill Jobs
-based_in:    Dhaka, Bangladesh 🇧🇩
-credential:  ISO/IEC 27001:2022 Lead Auditor
-clouds:      [Oracle Cloud (OCI), AWS, Microsoft Azure]
-frameworks:  [ISO 27001, NIST CSF, SOC 2, GDPR]
-building:    [SIEM/XDR pipelines, AI-assisted vuln triage, Odoo 19 ERP modules]
-philosophy:  "Secure by design. Observable by default. Automated end to end."
-```
+<img src="./assets/stats.svg" width="100%" alt="99.9% uptime across client clouds · 15% higher presales win rate · 220+ engineers trained · 10+ ERP modules shipped">
+
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
-  <img src="./assets/impact-light.svg" width="100%" alt="Impact: 99.9% uptime · 10+ ERP modules · 220+ professionals trained · 60% placement · +15% win rate · 3 clouds">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-about-dark.svg">
+  <img src="./assets/h-about-light.svg" width="100%" alt="About — Cloud platforms built to pass the audit.">
 </picture>
 
-## 🧭 What I do
+Multi-cloud platforms on **OCI, AWS and Azure**, secured with **EDR and SIEM** and audited against **ISO 27001 and NIST**. Lead Solutions Architect at Goinnovior; cybersecurity and networking trainer at Skill Jobs.
 
-I design and secure the infrastructure businesses run on — from multi-cloud landing zones and defense-in-depth security stacks to the CI/CD pipelines and applications on top. My edge is working across **all four layers** and translating compliance frameworks into systems that actually hold up in production.
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-expertise-dark.svg">
+  <img src="./assets/h-expertise-light.svg" width="100%" alt="Expertise — What the work covers">
+</picture>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Cybersecurity & GRC
+**01 — Cybersecurity & GRC**
+
 Detection engineering, EDR/XDR rollouts, perimeter defense and audit-ready compliance.
 
-- Production **Wazuh SIEM/XDR** with Sysmon, Suricata & VirusTotal enrichment
-- Enterprise **EDR/XDR + NGFW** deployments with automated containment
-- **ISO 27001 / NIST** audits of cloud workloads, endpoints & networks
-
-`Wazuh` `Suricata` `Sysmon` `Kaspersky EDR/KATA` `Fortinet` `Sophos` `Defender for Endpoint` `Threat Hunting` `Incident Response` `ISO 27001` `NIST CSF` `SOC 2`
+<sub>WAZUH · SURICATA · SYSMON · KASPERSKY EDR · FORTINET · SOPHOS · ISO 27001 · NIST CSF · SOC 2</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
-Highly available multi-cloud architecture with identity at the core.
+**02 — Cloud & Infrastructure**
 
-- **OCI, AWS & Azure** architectures delivering 99.9% uptime
-- **Microsoft 365 / Entra ID** with conditional access & RBAC
-- Network design: VLANs, site-to-site VPNs, enterprise Wi-Fi
+Highly available multi-cloud architecture with identity and access at the core.
 
-`OCI` `AWS` `Azure` `Entra ID` `Intune` `Exchange` `Linux` `cPanel/WHM` `MikroTik` `WireGuard` `IPsec` `DNS / Mail`
+<sub>OCI · AWS · AZURE · ENTRA ID · INTUNE · M365 · LINUX · MIKROTIK · WIREGUARD · IPSEC</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps, DevSecOps & SRE
-Everything as code, everything observed, security in the pipeline.
+**03 — DevOps & Observability**
 
-- **Terraform** provisioning on OCI with full observability stack
-- **Docker** + **GitHub Actions** CI/CD, removing release bottlenecks
-- Load testing & tuning with **k6 / Locust** against SLOs
+Infrastructure as code, containerized delivery and monitoring measured against SLOs.
 
-`Terraform` `Docker` `GitHub Actions` `Prometheus` `Grafana` `Loki` `Alertmanager` `k6` `Locust` `DefectDojo` `Container Security`
+<sub>TERRAFORM · DOCKER · GITHUB ACTIONS · PROMETHEUS · GRAFANA · LOKI · K6 · LOCUST</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Software Development
-Business software and web apps that ship to production.
+**04 — Software Development**
 
-- **Odoo 19 ERP** — 10+ custom modules (Payroll, Attendance, DMS…)
-- In-browser document suite embedded in the ERP
-- Modern web front-ends with **Next.js / React / TypeScript**
+Business systems and web apps that ship to production.
 
-`Python` `PostgreSQL` `Odoo 19` `XML` `Next.js` `React` `TypeScript` `JavaScript` `REST APIs` `Bash` `PowerShell`
+<sub>PYTHON · POSTGRESQL · ODOO 19 · NEXT.JS · REACT · TYPESCRIPT · REST APIS</sub>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <img src="./assets/divider-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
+  <img src="./assets/h-work-light.svg" width="100%" alt="Work — Selected projects">
 </picture>
 
-## 🚀 Featured work
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Enterprise SIEM & SOC Telemetry
-**Wazuh · Sysmon · Suricata · VirusTotal API**
+**Enterprise SIEM & SOC Telemetry**
 
-Production Wazuh SIEM/XDR cluster with centralized log aggregation and custom threat-hunting dashboards. Automated triage rules for **privilege escalation, lateral movement and suspicious egress**, with hash/IP reputation lookups on every alert.
+Production Wazuh SIEM/XDR cluster with Sysmon endpoint auditing, Suricata network detection and VirusTotal enrichment. Automated triage for privilege escalation, lateral movement and suspicious egress.
 
-`Detection Engineering` `Threat Hunting` `NIDS`
+<sub>WAZUH · SYSMON · SURICATA · VIRUSTOTAL API</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI-Driven Vulnerability Management
-**Strix AI · DefectDojo · AiSOC · LLM triage**
+**AI-Driven Vulnerability Management**
 
-Unified DevSecOps pipeline: an autonomous offensive agent finds issues, DefectDojo de-duplicates and tracks them, and an LLM triage layer cuts false positives — **shrinking MTTR** across cloud assets and repos.
+One DevSecOps pipeline: Strix AI finds issues, DefectDojo centralizes them and LLM triage removes false positives, cutting time to remediation.
 
-[**→ View repository**](https://github.com/TanimSec/AI-Driven-Vulnerability-Assessment-Management)
+<sub>STRIX AI · DEFECTDOJO · AISOC</sub> &nbsp;·&nbsp; [View repo ↗](https://github.com/TanimSec/AI-Driven-Vulnerability-Assessment-Management)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Multi-Cloud Observability Stack
-**Terraform · OCI · Prometheus · Grafana · Loki · k6**
+**Multi-Cloud Observability Stack**
 
-VPS fleet provisioned on Oracle Cloud with Terraform, wired into a full metrics + logs + alerting stack. Load-tested with k6 and Locust to tune kernel network parameters and resource quotas under high concurrency.
+Oracle Cloud instances provisioned with Terraform, wired into metrics, logs and alerting, then load-tested with k6 and Locust to tune kernel and resource limits.
 
-`IaC` `SRE` `Performance Engineering`
+<sub>TERRAFORM · OCI · PROMETHEUS · GRAFANA · LOKI · ALERTMANAGER</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Custom Enterprise ERP (Odoo 19)
-**Python · PostgreSQL · XML · Odoo framework**
+**Custom Enterprise ERP on Odoo 19**
 
-Co-engineered a production ERP with **10+ custom modules** — Payroll, Attendance, Time-off, Secure Document Management — plus a browser-native office suite. Strict RBAC, PostgreSQL indexing and automated off-site backups. Streamlined internal workflows by **30%**.
+10+ custom modules (Payroll, Attendance, Time-off, Document Management) and a browser-native office suite, with strict RBAC and automated off-site backups.
 
-[**→ odoo.goinnovior.com**](https://odoo.goinnovior.com)
+<sub>PYTHON · POSTGRESQL · ODOO 19</sub> &nbsp;·&nbsp; [Visit ↗](https://odoo.goinnovior.com)
 
 </td>
 </tr>
 </table>
 
-<details open>
-<summary><b>🧩 Architecture — SIEM &amp; detection pipeline</b></summary>
+<details>
+<summary><b>Architecture diagrams</b></summary>
 <br>
 
+**SIEM & detection pipeline**
+
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','clusterBkg':'#0c0d0e','clusterBorder':'#3f3f46','titleColor':'#fafafa','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
 flowchart LR
-    subgraph Endpoints["🖥️ Endpoints"]
+    subgraph Sources
         W["Windows + Sysmon"]
         L["Linux servers"]
-    end
-    subgraph Network["🌐 Network"]
         S["Suricata NIDS"]
     end
-    W & L -->|Wazuh agent| M
+    W & L -->|agent| M["Wazuh Manager"]
     S -->|IDS alerts| M
-    M["Wazuh Manager<br/>decoders + custom rules"] --> I[("Wazuh Indexer")]
-    M -->|hash / IP lookups| VT["VirusTotal API"]
-    VT --> M
-    I --> D["Threat-hunting dashboards"]
-    M -->|priv-esc · lateral movement · egress| A["🚨 Automated triage & alerts"]
+    M <-->|hash / IP lookups| VT["VirusTotal API"]
+    M --> I[("Indexer")] --> D["Hunting dashboards"]
+    M --> A["Automated triage & alerts"]
 ```
 
-</details>
-
-<details>
-<summary><b>🧩 Architecture — Observability stack on OCI</b></summary>
-<br>
+**Observability on OCI**
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
 flowchart LR
-    TF["Terraform"] -->|provisions| VMs["OCI compute instances"]
-    VMs -->|metrics| P["Prometheus"]
-    VMs -->|logs via Promtail| LK["Loki"]
-    P --> G["Grafana"]
-    LK --> G
-    P --> AM["Alertmanager"] --> N["📟 Notifications"]
-    K6["k6 / Locust"] -->|load & stress tests| VMs
+    TF["Terraform"] --> VM["OCI instances"]
+    VM -->|metrics| P["Prometheus"] --> G["Grafana"]
+    VM -->|logs| LK["Loki"] --> G
+    P --> AM["Alertmanager"]
+    K["k6 / Locust"] -->|load tests| VM
 ```
 
-</details>
-
-<details>
-<summary><b>🧩 Architecture — AI-driven vulnerability pipeline</b></summary>
-<br>
+**AI vulnerability pipeline**
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#141517','primaryTextColor':'#fafafa','primaryBorderColor':'#F65802','lineColor':'#F65802','edgeLabelBackground':'#0c0d0e','fontFamily':'Inter, Segoe UI, sans-serif'}}}%%
 flowchart LR
-    CA["Cloud assets"] --> STRIX["Strix AI<br/>autonomous offensive agent"]
-    SC["Code repositories<br/>scan results"] --> DD
-    STRIX -->|findings| DD["DefectDojo<br/>centralized ASPM"]
-    DD -->|new findings| AI["AiSOC<br/>LLM triage"]
-    AI -->|validated findings| T["✅ Faster remediation (lower MTTR)"]
+    CA["Cloud assets"] --> ST["Strix AI"] --> DD["DefectDojo"]
+    CR["Code scan results"] --> DD
+    DD --> AI["AiSOC triage"] --> F["Validated findings"]
 ```
 
 </details>
 
-## 💼 Experience
-
-| When | Role | Highlights |
-|---|---|---|
-| **Jul 2024 – Present** | **Lead Solutions Architect & Security Auditor**<br>Goinnovior Limited | Multi-cloud & security architecture (OCI · AWS · Azure) at 99.9% uptime · Lead ISO 27001 / NIST auditor · EDR/XDR + NGFW rollouts · Dockerized services with GitHub Actions CI/CD · M365 governance with 96% client satisfaction · Executive presales demos driving a **15% higher win rate** |
-| **Nov 2024 – Present** | **Cybersecurity & Networking Trainer**<br>Skill Jobs | 15+ four-month cohorts · **220+** professionals mentored · 95% completion · **60%** job placement into SOC, IT & network roles · Built real-world firewall, packet-analysis & incident-triage labs |
-| **Jan 2023 – May 2023** | **Cybersecurity Engineering Intern**<br>Skylark Soft Limited | Security policy & compliance controls · Selected for the government-sponsored Cybersecurity Advancement Program (IIT & EDGE): threat intel, vuln scanning, digital forensics |
-
-🎓 **B.Sc. in Information & Communication Engineering** — Daffodil International University (2023)
-
-## 🏅 Certifications
-
-> [!IMPORTANT]
-> **ISO/IEC 27001:2022 Lead Auditor** — MasterMind (2026)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🔐 Security**
-- KATA & EDR Expert / Next EDR Admin — *Kaspersky* (2025)
-- Google Cybersecurity Professional — *Google* (2023)
-- Cybersecurity Specialization — *ICT Division & IIT, University of Dhaka* (2023)
-- Defense Against the Digital Dark Arts — *Google* (2025)
-
-</td>
-<td width="33%" valign="top">
-
-**🌐 Networks & Infrastructure**
-- Connect and Protect: Networks & Network Security — *Google* (2025)
-- Google IT Support Professional — *Google* (2023–24)
-- Network & Server Administration — *Skill Jobs* (2023)
-
-</td>
-<td width="33%" valign="top">
-
-**💻 Engineering**
-- Full Stack Web Engineering — *Programming Hero* (2026)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More training &amp; vendor credentials</b></summary>
 <br>
 
-- **Kaspersky:** Next EDR Optimum · MDR (Managed Detection & Response) · Security for Mail Server · Safe Web · SD-WAN · KUMA Sales & Presales
-- **Security:** OPSWAT Cybersecurity Associate · OWASP CIIP · Password Hacking & Malware Security · Play It Safe: Manage Security Risks (Google)
-- **Cloud & IT:** Microsoft 365 Administration · Azure Administration · Google Networking · Google OS & Systems Fundamentals · Meta MySQL · 21st Century Employability (ICT Division)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-career-dark.svg">
+  <img src="./assets/h-career-light.svg" width="100%" alt="Career — Where it happened">
+</picture>
+
+**Lead Solutions Architect & Security Auditor** — Goinnovior Limited<br>
+<sub>JUL 2024 — PRESENT</sub><br>
+Multi-cloud and security architecture on OCI, AWS and Azure at 99.9% uptime. Lead ISO 27001 / NIST auditor. EDR/XDR, NGFW and Odoo 19 ERP delivery, Docker + GitHub Actions CI/CD, and executive presales that lifted win rate by 15%.
+
+**Cybersecurity & Networking Trainer** — Skill Jobs<br>
+<sub>NOV 2024 — PRESENT</sub><br>
+15+ four-month cohorts and 220+ professionals trained, with 95% completion and 60% job placement into SOC, IT and network roles.
+
+**Cybersecurity Engineering Intern** — Skylark Soft Limited<br>
+<sub>JAN 2023 — MAY 2023</sub><br>
+Security policy and compliance controls. Selected for the government-sponsored Cybersecurity Advancement Program (IIT & EDGE).
+
+<sub>EDUCATION — B.Sc. Information & Communication Engineering, Daffodil International University (2023)</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-credentials-dark.svg">
+  <img src="./assets/h-credentials-light.svg" width="100%" alt="Credentials — Certified to audit">
+</picture>
+
+**ISO/IEC 27001:2022 Lead Auditor** — MasterMind, 2026
+
+- KATA & EDR Expert · Next EDR Administration — Kaspersky, 2025
+- Google Cybersecurity Professional Certificate — Google, 2023
+- Cybersecurity Specialization — ICT Division & IIT, University of Dhaka, 2023
+- Full Stack Web Engineering — Programming Hero, 2026
+
+<details>
+<summary>All certifications</summary>
+<br>
+
+- Google IT Support Professional Certificate — Google, 2023–24
+- Connect and Protect: Networks and Network Security — Google, 2025
+- IT Security: Defense Against the Digital Dark Arts — Google, 2025
+- Network & Server Administration — Skill Jobs, 2023
+- Kaspersky: Next EDR Optimum · MDR · Security for Mail Server · Safe Web · SD-WAN · KUMA Sales & Presales
+- OPSWAT Cybersecurity Associate · OWASP CIIP · Password Hacking & Malware Security · Play It Safe: Manage Security Risks
+- Microsoft 365 Administration · Azure Administration · Google Networking · Google OS & Systems Fundamentals · Meta MySQL
 
 </details>
 
-## 📊 Activity
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg">
-  <img src="./dist/snake.svg" width="100%" alt="Contribution graph being eaten by a snake">
+  <img src="./dist/snake.svg" width="100%" alt="Contribution graph">
 </picture>
 
----
+<br><br>
 
-<p align="center">
-  <b>Open to</b> security architecture, cloud &amp; DevSecOps consulting, audits, and training engagements.<br>
-  <a href="mailto:mail.tasnimrahman@gmail.com">mail.tasnimrahman@gmail.com</a> · <a href="https://tanim.my.id">tanim.my.id</a> · <a href="https://linkedin.com/in/contacttasnimrahmantanim">LinkedIn</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-contact-dark.svg">
+  <img src="./assets/h-contact-light.svg" width="100%" alt="Contact — Let's build something secure.">
+</picture>
+
+<p>
+  <a href="mailto:mail.tasnimrahman@gmail.com"><img src="./assets/btn-talk.svg" height="44" alt="Let's talk"></a>&nbsp;
+  <a href="./Tasnim_Rahman_Tanim_Resume.pdf"><img src="./assets/btn-cv.svg" height="44" alt="Download CV"></a>
 </p>
-
-<p align="center"><sub><code>$ echo "Always learning. Always building. Always securing."</code></sub></p>
